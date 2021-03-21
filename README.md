@@ -28,4 +28,6 @@ https://www.joinclubhouse.com/join/microsoft-developers/IN64FP5z
 </p>
 <li>Microsoft's latest cloud authentication outage: What went wrong</li>
 <p><a href="https://www.zdnet.com/article/microsofts-latest-cloud-authentication-outage-what-went-wrong/">For More Info Click Here</a>
+  <li>Microsoft buys rapid prototyping firm The Marsden Group</li>
+  <p><a href="https://www.zdnet.com/article/microsoft-buys-rapid-prototyping-firm-the-marsden-group/"</a></p>
 </ul>
