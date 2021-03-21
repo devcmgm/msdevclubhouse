@@ -27,5 +27,5 @@ https://www.joinclubhouse.com/join/microsoft-developers/IN64FP5z
 <p><a href="https://www.seattletimes.com/business/microsoft-unveils-new-vaccine-management-software-to-address-earlier-failures/" >For More Info Click Here</a>
 </p>
 <li>Microsoft's latest cloud authentication outage: What went wrong</li>
-<p><a href="https://www.zdnet.com/article/microsofts-latest-cloud-authentication-outage-what-went-wrong/">F</a>
+<p><a href="https://www.zdnet.com/article/microsofts-latest-cloud-authentication-outage-what-went-wrong/">For More Info Click Here</a>
 </ul>
