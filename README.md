@@ -16,6 +16,12 @@ https://www.joinclubhouse.com/join/microsoft-developers/IN64FP5z
 </ul>
 <h3>Each week we will add more info on what is discussed on Clubhouse</h3>
 <hr/>
+<h2>Week #1 April18th</h2>
+<ul>
+  <li>Part #1-  Setup Evironment - Building Dotnet Websites on MacOS and Linux</li>
+  <li>General Questions and Setup</li>
+  </ul>
+<hr/>
 <h2>Week #1 March 21st</h2>
 <ul>
 <li>Microsoft Windows 10 updates:</li>
