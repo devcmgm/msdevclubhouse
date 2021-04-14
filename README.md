@@ -9,16 +9,17 @@ Join us on Clubhouse if you have an Ipad or Iphone currently.
 
 https://www.joinclubhouse.com/join/microsoft-developers/IN64FP5z
 <hr>
-<h2>Getttinhg started</h2>
+<h2>Gettting started Docs - Cross Platform Development</h2>
 <ul>
   <li><a href="https://dotnet.microsoft.com/">Start Here CrossPlatform DotNet</a></li>
   <li><a href="https://www.microsoft.com/en-us/events">Microsoft Events</a></li>
 </ul>
 <h3>Each week we will add more info on what is discussed on Clubhouse</h3>
 <hr/>
-<h2>Week #1 April18th</h2>
+<h2>Week #1 April 18th</h2>
 <ul>
   <li>Part #1-  Setup Evironment - Building Dotnet Websites on MacOS and Linux</li>
+  <li>Microfsoft PowerApps on IOS and Android</li>
   <li>General Questions and Setup</li>
   </ul>
 <hr/>
