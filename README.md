@@ -1,7 +1,7 @@
 # msdevclubhouse
 <h1>Microsoft Developers Club on Clubhouse Club Projects</h1>
 
-<h2><a href="https://www.joinclubhouse.com/club/microsoft-developers">Microsoft Developers Clubhouse Club</a>
+<h2><a href="https://www.joinclubhouse.com/club/microsoft-developers">Microsoft Developers Clubhouse Club</a></h2>
 
 We will store project demos and examples in here from our Clubhouse Discussions.
 
