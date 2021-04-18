@@ -5,11 +5,11 @@
 
 We will store project demos and examples in here from our Clubhouse Discussions.
 
-Join us on Clubhouse if you have an Ipad or Iphone currently.
+Join us on Clubhouse if you have an Ipad or Iphone currently.  Android soon ... 
 
 https://www.joinclubhouse.com/join/microsoft-developers/IN64FP5z
 <hr>
-<h2>Gettting started Docs - Cross Platform Development</h2>
+<h2>Microsoft Gettting started Docs - Cross Platform Development</h2>
 <ul>
   <li><a href="https://dotnet.microsoft.com/">Start Here CrossPlatform DotNet</a></li>
   <li><a href="https://www.microsoft.com/en-us/events">Microsoft Events</a></li>
@@ -18,7 +18,9 @@ https://www.joinclubhouse.com/join/microsoft-developers/IN64FP5z
 <hr/>
 <h2>Week #1 April 18th</h2>
 <ul>
-  <li>Part #1-  Setup Evironment - Building Dotnet Websites on MacOS and Linux</li>
+  <li>Part #1-  Setup Evironment - Building Dotnet Websites on MacOS and Linux
+    <a href="https://github.com/devcmgm/msdevclubhouseapr18">Example Starter Code</a></li>
+  <li><a href="https://docs.microsoft.com/en-us/cli/azure/install-azure-cli">Azure Command Line Tools CLI</a></li>
   <li>Microfsoft PowerApps on IOS and Android</li>
   <li>General Questions and Setup</li>
   </ul>
