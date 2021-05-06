@@ -16,6 +16,13 @@ https://www.joinclubhouse.com/join/microsoft-developers/IN64FP5z
 </ul>
 <h3>Each week we will add more info on what is discussed on Clubhouse</h3>
 <hr/>
+<h2>May 5th</h2>
+<p>Check out Spark AR and Adobe Aero</p>
+<ul>
+  <li>https://sparkar.facebook.com/ar-studio/download/</li>
+  <li>https://creativecloud.adobe.com/apps/download/aero</li>
+  </ul>
+<hr/>
 <h2>Week #1 April 18th</h2>
 <ul>
   <li>Part #1-  Setup Evironment - Building Dotnet Websites on MacOS and Linux
